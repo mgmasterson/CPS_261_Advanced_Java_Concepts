@@ -1,0 +1,2 @@
+# CPS_261_Advanced_Java_Concepts
+This course is a continuation of the Java concepts covered in CPS 161. Topics covered include input/output, graphical user interfaces associated with AWT/Swing, data structures, networking, and multitasking (Threads). Students entering this class should have a good understanding of object-oriented programming concepts such as inheritance and polymorphism. The title of this course was previously Programming in Data Structures in Java.
